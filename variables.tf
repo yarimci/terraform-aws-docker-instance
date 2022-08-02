@@ -14,7 +14,7 @@ variable "num_of_instance" {
 
 variable "tag" {
   type = string
-  default = "Docker-Instance"
+  default = "Docker-Instance-new"
 }
 
 variable "server-name" {
